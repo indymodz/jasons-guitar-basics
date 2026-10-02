@@ -1,0 +1,26 @@
+{
+  "name": "Jason’s Guitar Basics",
+  "short_name": "Jason’s Guitar",
+  "description": "Interactive lefty-friendly guitar learning app for beginners. Chords, classic rock songs, strumming patterns, and real-time feedback.",
+  "start_url": "./guitar-learner.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f0f13",
+  "theme_color": "#ff6b35",
+  "lang": "en",
+  "categories": ["education", "music"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
